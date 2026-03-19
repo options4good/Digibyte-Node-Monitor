@@ -16,7 +16,7 @@ I hope I can contribute with this small project to the community and many of you
 <h3>Blockchain Data section:</h3>
 <b>Height =</b> the current block height and also what percentage the node has been synced.<br>
 <b>Difficulty =</b> the current network difficulty separately in SHA256d and Scrypt algos.<br>
-<b>Net Hash =</b> the current total network hash rate.
+<b>Net Hash =</b> the current total network hash rate.<br>
 <b>Uptime =</b> the exact time since the node has been running.<br><br>
 
 <h3>Network Status section:</h3>
