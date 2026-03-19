@@ -36,9 +36,17 @@ I am opened for feedback and future requests to enhance the capability of this a
 
 <h2>Installation & Start</h2>
 <b>Linux Dependencies</b><br><br>
+1. In the terminal perform the below command:
 
 ```bash
 sudo apt update && sudo apt install python3 python3-pip python3-venv -y
+```
+
+2. Download the latest dgbnodemonitor.py file from the "Releases" section: https://github.com/options4good/Digibyte-Node-Monitor/releases<br>
+3. Start the application from the terminal running the below command:
+
+```bash
+python3 dgbnodemonitor.py
 ```
 
 <h4>Donations are possible to make and highly appreciated via crypto payments:</h4>
