@@ -39,6 +39,7 @@ I am opened for feedback and future requests to enhance the capability of this a
 
 ```bash
 sudo apt update && sudo apt install python3 python3-pip python3-venv -y
+```
 
 <h4>Donations are possible to make and highly appreciated via crypto payments:</h4>
 <b>DGB</b> wallet address:&nbsp;&nbsp;DEkZrJo1BHdiqnQq1XQSWGymEcDWGAWwZs<br>
