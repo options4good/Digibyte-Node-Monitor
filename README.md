@@ -1,6 +1,6 @@
 <h1>Node Monitor for Digibyte (DGB).</h1>
 
-I am running my local DGB node for solo mining and tought I would create a script to monitor the node's activity and display various related data.
+I am running my local DGB node for solo mining and thought I would create a script to monitor the node's activity and display various related data.
 I hope I can contribute with this small project to the community and many of you will enjoy my creation.
 
 <img width="680" height="668" alt="DGBNodeMonitor" src="https://github.com/user-attachments/assets/4854011d-2661-460c-ae11-2cb56e056e8a" />
@@ -32,9 +32,9 @@ I hope I can contribute with this small project to the community and many of you
 <b>Inbound Peers =</b> inbound peers' IP Address, port and latency data in milliseconds. Each table can hold 20 lines. When you have more than 20 peers, the script automatically creates another table. Peers are listed in the order of their latency number.<br><br>
 
 <h2>What are the upcoming features?</h2>
-I am opened for feedback and future requests to enhance the capability of this application. Please do not hasitate to write up an issue if you notice anything not working properly. Alternatively you can reach out via Reddit: <br><br>
+I am opened for feedback and future requests to enhance the capability of this application. Please do not hesitate to write up an issue if you notice anything not working properly. Alternatively you can reach out via Reddit: <br><br>
 
-<h4>Donations are possible to make and highly appreaciated via crypto payments:</h4>
+<h4>Donations are possible to make and highly appreciated via crypto payments:</h4>
 <b>DGB</b> wallet address:&nbsp;&nbsp;DEkZrJo1BHdiqnQq1XQSWGymEcDWGAWwZs<br>
 <b>DOGE</b> wallet address:&nbsp;&nbsp;DKZ9sv4VoTiQQdwi7VY25573UfpQqZJfYf<br>
 <b>LTC</b> wallet address:&nbsp;&nbsp;MJw3XHpR65Ec8rKEBthK5Dnvcy1CixYGTa<br>
