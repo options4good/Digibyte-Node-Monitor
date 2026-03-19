@@ -32,22 +32,25 @@ I hope I can contribute with this small project to the community and many of you
 <b>Inbound Peers =</b> inbound peers' IP Address, port and latency data in milliseconds. Each table can hold 20 lines. When you have more than 20 peers, the script automatically creates another table. Peers are listed in the order of their latency number.<br><br>
 
 <h2>What are the upcoming features?</h2>
+Continue checking the application for possible issues, adding version number, test application on other OS like Windows. Other than these:<br>
 I am opened for feedback and future requests to enhance the capability of this application. Please do not hesitate to write up an issue if you notice anything not working properly. Alternatively you can reach out via Reddit: https://www.reddit.com/r/Options4Good/<br><br>
 
 <h2>Installation & Start</h2>
 <b>Linux Dependencies</b><br><br>
-1. In the terminal perform the below command:
+In the terminal perform the below command:<br><br>
 
 ```bash
 sudo apt update && sudo apt install python3 python3-pip python3-venv -y
 ```
 
-2. Download the latest dgbnodemonitor.py file from the "Releases" section: https://github.com/options4good/Digibyte-Node-Monitor/releases<br>
-3. Start the application from the terminal running the below command:
+Download the latest dgbnodemonitor.py file from the "Releases" section: https://github.com/options4good/Digibyte-Node-Monitor/releases<br><br>
+Start the application from the terminal running the below command:
 
 ```bash
 python3 dgbnodemonitor.py
 ```
+
+<br>
 
 <h4>Donations are possible to make and highly appreciated via crypto payments:</h4>
 <b>DGB</b> wallet address:&nbsp;&nbsp;DEkZrJo1BHdiqnQq1XQSWGymEcDWGAWwZs<br>
