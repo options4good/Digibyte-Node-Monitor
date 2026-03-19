@@ -20,9 +20,9 @@ I hope I can contribute with this small project to the community and many of you
 <b>Uptime =</b> the exact time since the node has been running.<br><br>
 
 <h3>Network Status section:</h3>
-<b>Total Connected Peers=</b> the sum of the number of outbound and inbound peers the node is currently connected.<br>
-<b>Outbound =</b> the number of outbound peers the node is currently connected.<br>
-<b>Inbound =</b> the number of inbound peers the node is currently connected.<br>
+<b>Total Connected Peers=</b> the sum of the number of outbound and inbound peers the node is currently connected to.<br>
+<b>Outbound =</b> the number of outbound peers the node is currently connected to.<br>
+<b>Inbound =</b> the number of inbound peers the node is currently connected to.<br>
 <b>Last Updated =</b> date and time stamp to display that the application is running and monitoring the node.<br><br>
 
 <h3>Outbound Peers section:</h3>
