@@ -8,28 +8,28 @@ I hope I can contribute with this small project to the community and many of you
 <h2>What are the current features?</h2>
 
 <h3>Node & System section:</h3>
-<b>DGB Version=</b> the current version of the node you are running.<br>
-<b>CPU Usage=</b> the CPU usage that your computer is utilizing running the node.<br>
-<b>RAM Usage=</b> the memory usage that your computer is utilizing running the node.<br>
-<b>Disk Space=</b> the amount of disk space used for the node's ''blocks' and 'chainstate' directories specifically.<br><br>
+<b>DGB Version =</b> the current version of the node you are running.<br>
+<b>CPU Usage =</b> the CPU usage that your computer is utilizing running the node.<br>
+<b>RAM Usage =</b> the memory usage that your computer is utilizing running the node.<br>
+<b>Disk Space =</b> the amount of disk space used for the node's 'blocks' and 'chainstate' directories specifically.<br><br>
 
 <h3>Blockchain Data section:</h3>
-<b>Height=</b> the current block height and also what percentage the node has been synced.<br>
-<b>Difficulty=</b> the current network difficulty separately in SHA256d and Scrypt algos.<br>
-<b>Net Hash=</b> the current total network hash rate.
-<b>Uptime=</b> the exact time since the node has been running.<br><br>
+<b>Height =</b> the current block height and also what percentage the node has been synced.<br>
+<b>Difficulty =</b> the current network difficulty separately in SHA256d and Scrypt algos.<br>
+<b>Net Hash =</b> the current total network hash rate.
+<b>Uptime =</b> the exact time since the node has been running.<br><br>
 
 <h3>Network Status section:</h3>
 <b>Total Connected Peers=</b> the sum of the number of outbound and inbound peers the node is currently connected.<br>
-<b>Outbound=</b> the number of outbound peers the node is currently connected.<br>
-<b>Inbound=</b> the number of inbound peers the node is currently connected.<br>
-<b>Last Updated=</b> date and time stamp to display that the application is running and monitoring the node.<br><br>
+<b>Outbound =</b> the number of outbound peers the node is currently connected.<br>
+<b>Inbound =</b> the number of inbound peers the node is currently connected.<br>
+<b>Last Updated =</b> date and time stamp to display that the application is running and monitoring the node.<br><br>
 
 <h3>Outbound Peers section:</h3>
-<b>Outbound Peers=</b> outbound peers' IP Address, port and latency data in milliseconds. Each table can hold 20 lines. When you have more than 20 peers, the script automatically creates another table. Peers are listed in the order of their latency number.<br><br>
+<b>Outbound Peers =</b> outbound peers' IP Address, port and latency data in milliseconds. Each table can hold 20 lines. When you have more than 20 peers, the script automatically creates another table. Peers are listed in the order of their latency number.<br><br>
 
 <h3>Inbound Peers section:</h3>
-<b>Inbound Peers=</b> inbound peers' IP Address, port and latency data in milliseconds. Each table can hold 20 lines. When you have more than 20 peers, the script automatically creates another table. Peers are listed in the order of their latency number.<br><br>
+<b>Inbound Peers =</b> inbound peers' IP Address, port and latency data in milliseconds. Each table can hold 20 lines. When you have more than 20 peers, the script automatically creates another table. Peers are listed in the order of their latency number.<br><br>
 
 <h2>What are the upcoming features?</h2>
 I am opened for feedback and future requests to enhance the capability of this application. Please do not haitate to write up an issue if you noice anything not working properly. Alternatively you can raech out via Reddit: <br><br>
