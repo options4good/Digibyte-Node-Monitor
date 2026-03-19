@@ -34,6 +34,11 @@ I hope I can contribute with this small project to the community and many of you
 <h2>What are the upcoming features?</h2>
 I am opened for feedback and future requests to enhance the capability of this application. Please do not hesitate to write up an issue if you notice anything not working properly. Alternatively you can reach out via Reddit: https://www.reddit.com/r/Options4Good/<br><br>
 
+<h2>Installation & Start</h2>
+<b>Linux Dependencies</b><br><br>
+```bash
+sudo apt update && sudo apt install python3 python3-pip python3-venv -y
+
 <h4>Donations are possible to make and highly appreciated via crypto payments:</h4>
 <b>DGB</b> wallet address:&nbsp;&nbsp;DEkZrJo1BHdiqnQq1XQSWGymEcDWGAWwZs<br>
 <b>DOGE</b> wallet address:&nbsp;&nbsp;DKZ9sv4VoTiQQdwi7VY25573UfpQqZJfYf<br>
