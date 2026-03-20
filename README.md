@@ -33,7 +33,7 @@ I hope I can contribute with this small project to the community and many of you
 
 <h2>What are the upcoming features?</h2>
 Continue checking the application for possible issues, adding version number, test application on other OS like Windows. Other than these:<br>
-I am open to feedback and future requests to enhance the capability of this application. Please do not hesitate to write up an issue if you notice anything not working properly. Alternatively you can reach out via Reddit: https://www.reddit.com/r/Options4Good/<br><br>
+I am open to feedback and future requests to enhance the capability of this application. Please do not hesitate to write up an issue if you notice anything not working properly. Alternatively, you can reach out via Reddit: https://www.reddit.com/r/Options4Good/<br><br>
 
 <h2>Installation & Start</h2>
 <b>Linux Dependencies</b><br><br>
@@ -52,7 +52,7 @@ python3 dgbnodemonitor.py
 
 <br>
 
-<h4>Donations are possible to make and highly appreciated via crypto payments:</h4>
+<h4>Donations are highly appreciated and can be made via crypto:</h4>
 <b>DGB</b> wallet address:&nbsp;&nbsp;DEkZrJo1BHdiqnQq1XQSWGymEcDWGAWwZs<br>
 <b>DOGE</b> wallet address:&nbsp;&nbsp;DKZ9sv4VoTiQQdwi7VY25573UfpQqZJfYf<br>
 <b>LTC</b> wallet address:&nbsp;&nbsp;MJw3XHpR65Ec8rKEBthK5Dnvcy1CixYGTa<br>
