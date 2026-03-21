@@ -9,8 +9,8 @@ I hope I can contribute with this small project to the community and many of you
 
 <h3>Node & System section:</h3>
 <b>DGB Version =</b> the current version of the node you are running.<br>
-<b>CPU Usage =</b> the CPU usage that your computer is utilizing running the node.<br>
-<b>RAM Usage =</b> the memory usage that your computer is utilizing running the node.<br>
+<b>CPU Usage =</b> the CPU usage that your computer is utilizing overall and specifically what the node is utilizing.<br>
+<b>RAM Usage =</b> the memory usage that your computer is utilizing overall and specifically what the node is utilizing.<br>
 <b>Disk Space =</b> the amount of disk space used for the node's 'blocks' and 'chainstate' directories specifically.<br><br>
 
 <h3>Blockchain Data section:</h3>
@@ -23,7 +23,8 @@ I hope I can contribute with this small project to the community and many of you
 <b>Total Connected Peers=</b> the sum of the number of outbound and inbound peers the node is currently connected to.<br>
 <b>Outbound =</b> the number of outbound peers the node is currently connected to.<br>
 <b>Inbound =</b> the number of inbound peers the node is currently connected to.<br>
-<b>Last Updated =</b> date and time stamp to display that the application is running and monitoring the node.<br><br>
+<b>Last Updated =</b> date and time stamp to display that the application is running and monitoring the node.<br>
+<b>App. Version =</b> application version number.<br><br>
 
 <h3>Outbound Peers section:</h3>
 <b>Outbound Peers =</b> outbound peers' IP Address, port and latency data in milliseconds. Each table can hold 20 lines. When you have more than 20 peers, the script automatically creates another table. Peers are listed in the order of their latency number.<br><br>
