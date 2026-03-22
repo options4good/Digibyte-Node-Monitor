@@ -3,7 +3,7 @@
 I am running my local DGB node for solo mining and thought I would create a script to monitor the node's activity and display various related data.
 I hope I can contribute with this small project to the community and many of you will enjoy my creation.
 
-<img width="680" height="668" alt="DGBNodeMonitor" src="https://github.com/user-attachments/assets/4854011d-2661-460c-ae11-2cb56e056e8a" />
+<img width="873" height="668" alt="DGBNodeMonitorV114" src="https://github.com/user-attachments/assets/5c613131-d71e-45da-ac99-bedacad811a1" />
 
 <h2>What are the current features?</h2>
 
